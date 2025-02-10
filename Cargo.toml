@@ -2,5 +2,7 @@
 name = "queryshell"
 version = "0.1.0"
 edition = "2021"
+description = "CLI tool to consult AI models for how to execute shell commands"
+license = "MIT"
 
 [dependencies]
